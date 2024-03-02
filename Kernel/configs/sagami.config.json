@@ -27,18 +27,8 @@
         "CLANG_TRIPLE": "aarch64-linux-gnu-",
         "CROSS_COMPILE": "aarch64-linux-android-",
         "CROSS_COMPILE_ARM32": "arm-linux-androideabi-",
-        "LD": "ld.lld",
-        "AR": "llvm-ar",
-        "NM": "llvm-nm",
-        "OBJCOPY": "llvm-objcopy",
-        "OBJDUMP": "llvm-objdump",
-        "READELF": "llvm-readelf",
-        "OBJSIZE": "llvm-size",
-        "STRIP": "llvm-strip",
-        "LDGOLD": "aarch64-linux-gnu-ld.gold",
-        "LLVM_AR": "llvm-ar",
-        "LLVM_DIS": "llvm-dis",
-        "CONFIG_THINLTO": ""
+        "LLVM": "1",
+        "LLVM_IAS": "1"
       }
     },
     "AnyKernel3": {
